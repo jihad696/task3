@@ -1,4 +1,4 @@
-from Lab4.task1 import Human, Employee, Bank, Customer, Account
+from task1 import Human, Employee, Bank, Customer, Account
 
 # Test Human and Employee
 human = Human("Alice", 30)
